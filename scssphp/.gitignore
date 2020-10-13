@@ -1,0 +1,12 @@
+.idea
+.sass-cache
+scss_cache
+composer.lock
+/*.css
+/*.scss
+/_site/
+/sass/
+/compass/
+/vendor/
+/frameworks/
+.phpunit.result.cache
