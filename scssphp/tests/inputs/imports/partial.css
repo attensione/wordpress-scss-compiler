@@ -1,4 +1,0 @@
-/* This is a plain CSS file that should never been @imported by the compiler */
-#partial.plaincss {
-    color: blue;
-}
